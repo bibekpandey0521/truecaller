@@ -53,6 +53,10 @@ class HomeSceen extends StatelessWidget {
                           "Recent ",
                           style: TextStyle(color: Colors.white),
                         ),
+                        const Text(
+                          "Recent ",
+                          style: TextStyle(color: Colors.white),
+                        ),
                       ],
                     ),
                     IconButton(onPressed: () {}, icon: const Icon(Icons.more_vert)),
